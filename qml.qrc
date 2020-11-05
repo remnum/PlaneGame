@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Land.qml</file>
+        <file>Brick.qml</file>
+        <file>PlaneController.qml</file>
+        <file>Missle.qml</file>
+        <file>Bullet.qml</file>
+        <file>Plane3.qml</file>
+    </qresource>
+</RCC>
